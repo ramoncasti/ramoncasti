@@ -1,7 +1,9 @@
 ### Hi there, I'm Ramon 👋
 <hr>
 <p>
+  
 - I love learning new technologies
+  
 - 🌱 I’m currently learning typescript and php
 </p>
 
