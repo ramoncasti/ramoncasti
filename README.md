@@ -4,7 +4,7 @@
   
 - I love learning new technologies
   
-- 🌱 I’m currently learning typescript and php
+- 🌱 I’m currently learning typescript and python
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncasti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
